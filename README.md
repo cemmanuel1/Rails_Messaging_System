@@ -1,7 +1,7 @@
 Rails Messaging System by Stefanos Ioannou
 http://stefanosioannou.com
 
-== Instructions
+Instructions
 
 * Clone the project
 
